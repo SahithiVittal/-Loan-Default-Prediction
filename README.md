@@ -60,9 +60,9 @@ Target Variable:
 
 | Model | Accuracy | Precision | Recall | F1-score |
 |---------|----------|----------|--------|---------|
-| Logistic Regression | xx | xx | xx | xx |
-| Random Forest | xx | xx | xx | xx |
-| XGBoost | xx | xx | xx | xx |
+| Logistic Regression | 0.85 | 0.71 | 0.47 | 0.57 |
+| Random Forest | 0.93 | 0.89 | 0.74 | 0.81 |
+| XGBoost | 0.93 | 0.90 | 0.77 | 0.82 |
 
 ---
 
@@ -86,4 +86,4 @@ Target Variable:
 
 ---
 
-## Repository Structure
+
