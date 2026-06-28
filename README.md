@@ -193,5 +193,6 @@ Loan_Default_Risk_Analytics/
 
 **Sahithi Vittal**
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- GitHub: *(Add your GitHub profile)*
+- LinkedIn: https://www.linkedin.com/in/vittal-sahithi/
+
+
